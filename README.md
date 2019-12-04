@@ -18,4 +18,6 @@ Using PowerShell, run the script or double-click on it.
   Action: Start a Program
   Program/script: `powershell.exe`
   Add arguments (optional): `C:/PATH/TO/auto-dark-mode.ps1 -ExecutionPolicy Bypass` (You can also customize the start and end times for light mode using the input parameters)
+  3. In the new Task, create two triggers that are run daily at the `start` and `end` times as desired.
+  4. Enjoy!
  ## 
